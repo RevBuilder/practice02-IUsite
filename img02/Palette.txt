@@ -1,0 +1,36 @@
+/* CSS HEX */
+--ronchi: #e8bd51;
+--shark: #1b1b1c;
+--solid-pink: #833543;
+--teal-blue: #053c54;
+--copper-rust: #985055;
+--avocado: #8a8e6c;
+--mineral-green: #3e5f5e;
+--viridian-green: #647c6c;
+--thatch-green: #44391c;
+
+
+/* SCSS HEX */
+$ronchi: #e8bd51;
+$shark: #1b1b1c;
+$solid-pink: #833543;
+$teal-blue: #053c54;
+$copper-rust: #985055;
+$avocado: #8a8e6c;
+$mineral-green: #3e5f5e;
+$viridian-green: #647c6c;
+$thatch-green: #44391c;
+
+
+/* SCSS RGB */
+--ronchi: rgba(232,189,81,1);
+--shark: rgba(27,27,28,1);
+--solid-pink: rgba(131,53,67,1);
+--teal-blue: rgba(5,60,84,1);
+--copper-rust: rgba(152,80,85,1);
+--avocado: rgba(138,142,108,1);
+--mineral-green: rgba(62,95,94,1);
+--viridian-green: rgba(100,124,108,1);
+--thatch-green: rgba(68,57,28,1);
+
+

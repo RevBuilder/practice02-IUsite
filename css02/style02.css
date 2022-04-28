@@ -1,0 +1,54 @@
+/* Notes:
+IEU's colors are:
+#e5b12e - Orange
+#063d55 - blue #002050
+#863443 - Red
+#18191a - Black
+*/
+* {
+  /*
+  background-color: black;
+  */
+  padding: 0;
+  margin: 0;
+
+}
+body{
+  background-color: lightgray;
+}
+/*header section */
+
+header {
+  /*Attached */
+  background-color: #ffffff;
+  /* background-image: url(/practice02-IEUsite/img02/header1.png);*/
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-bottom: 35px;
+  color: #002050;
+  font-size: 20px;
+  box-shadow: 0 0 5px #18191a;
+  
+}
+img {
+  /*Attached */
+  
+  
+}
+
+.homeTitle {
+  /*Attached */
+  width: 200px;
+  text-align: center;
+  }
+
+  nav {
+    text-align: center;
+  }
+  nav ul li {
+    /*Attached */
+    display: inline;
+    text-align: center;
+    padding-left: 45px;
+    text
+  }
